@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tpXML>
+<!--  *********************** debut devoir 1 **************************  -->
+<inventaire>
+	<livre id="1">
+		<titre>Voyna i Mir</titre>
+		<auteur>Dostoevskiy</auteur>
+	</livre>
+	<livre id="2">
+		<titre>Revizor</titre>
+		<auteur>Gogol</auteur>
+	</livre>
+	<livre id="3">
+		<titre>Rouslan i Ludmila</titre>
+		<auteur>Pushkin</auteur>
+	</livre>
+</inventaire>
+<!--  ************************* fin devoir 1 ***********************  -->
+
+<!--  *********************** debut devoir 2 **************************  -->
+<!--  *********************** un stylo rouge **************************  -->
+<!--  ****************** objet n'est pas "objet OOP", mais "chose" *********************  -->
+<objet type="accessoire burautique">
+	<stylo id="1">
+		<marque>null</marque>
+		<color>rouge</color>
+		<luxe>false</luxe>
+	</stylo>
+	<stylo id="2">
+		null
+	</stylo>
+	<blocnote id="1">
+		null
+	</blocnote>
+</objet>
+<!--  ************************* fin devoir 2 ***********************  -->
+
+<!--  *********************** debut devoir 3 **************************  -->
+<!--  *********************** une voiture bleue de marque Ferrari **************************  -->
+<objet type="myen de transport">
+	<voiture id="1">
+		<marque>Ferrari</marque>
+		<color>blue</color>
+		<luxe>true</luxe>
+	</voiture>
+	<voiture id="2">
+		null
+	</voiture>
+	<camion id="1">
+		null
+	</camion>
+</objet>
+<!--  ************************* fin devoir 3 ***********************  -->
+
+<!--  *********************** debut devoir 4 **************************  -->
+<!--  *********** un collier avec 1 diamant, 2 rubis, 3perles blanches et 3 perles noires ***********  -->
+<objet type="hamillement" subtype="accessoire de mode">
+	<collier id="1">
+		<marque>null</marque>
+		<color>null</color>
+		<luxe>true</luxe>
+		<elements>
+			<diamant id="1">
+				<color>null</color>
+			</diamant>
+			<rubi id="1">
+				<color>null</color>
+			</rubi>
+			<rubi id="2">
+				<color>null</color>
+			</rubi>
+			<perle id="1">
+				<color>white</color>
+			</perle>
+			<perle id="2">
+				<color>white</color>
+			</perle>
+			<perle id="3">
+				<color>white</color>
+			</perle>
+			<perle id="4">
+				<color>black</color>
+			</perle>
+			<perle id="5">
+				<color>black</color>
+			</perle>
+			<perle id="6">
+				<color>black</color>
+			</perle>
+		</elements>
+	</collier>
+	<collier id="2">
+		null
+	</collier>
+	<bracelet id="1">
+		null
+	</bracelet>
+</objet>
+<!--  ************************* fin devoir 4 ***********************  -->
+
+<!--  *********************** debut devoir 5 **************************  -->
+<!--  ********************* une paire de bottes ***************************  -->
+<objet type="habillement">
+	<chaussure type="botte" id="1">
+		<marque>null</marque>
+		<color>null</color>
+		<luxe>false</luxe>
+		<paire>true</paire>
+		<taille>null</taille>
+	</chaussure>
+	<chaussure type="botte" id="2">
+		null
+	</chaussure>
+	<chaussure type="rangers" id="3">
+		null
+	</chaussure>
+</objet>
+<!--  ************************* fin devoir 5 ***********************  -->
+
+<!--  *********************** debut devoir 6 **************************  -->
+<!--  **************** le temps aujourd'hui, region par region ****************  -->
+<info type="meteo" theme="actualités">
+	<title>Le teps aujourd'hui, région par région</title>
+	<message>
+		<element region="Bretagne">
+			Temps plus calme sur ces régions.
+		</element>
+		<element region="Nord-Picardie">
+			Matinée humide avec des pluis localement orageuses
+		</element>
+		<element region="Auvergne">
+			Temps maussade avec quelques éclaircies passagères
+		</element>
+		<element region="null">
+			null
+		</element>
+	</message>
+</info>
+<!--  ************************* fin devoir 6 ***********************  -->
+
+<!--  *********************** debut devoir 7 **************************  -->
+<!--  **************** dans la partie karpov/kasparov..... ****************  -->
+<info type="compte rendu" theme="sport">
+	<sport id="1">
+		<discipline>Jeux d'échecs</discipline>
+		<date>
+			<year>1998</year>
+			<month>null</month>
+			<day>null</day>
+		</date>
+		<lieu>
+			<city>Moscou</city>
+			<country>null</country>
+		</lieu>
+		<joueurs>
+			<joueur id="1">
+				<nom>Karpov</nom>
+				<gamecolor>blanc</gamecolor>
+			</joueur>
+			<joueur id="2">
+				<nom>Kasparov</nom>
+				<gamecolor>noir</gamecolor>
+			</joueur>
+		</joueurs>
+		<match>
+			<step id="1">null</step>
+			<step id="2">null</step>
+			<step id="3">null</step>
+			<step id="4">null</step>
+			<step id="5">null</step>
+			<step id="6">null</step>
+			<step id="7">null</step>
+			<step id="8">null</step>
+			<step id="9">null</step>
+			<step id="10">
+				<joueur>2</joueur>
+				<piece>tour</piece>
+				<from>E3</from>
+				<to>E7</to>
+				<get>cavalier</get>
+			</step>
+			<step id="11">null</step>
+			<step id="12">null</step>
+			<step id="13">null</step>
+			<step id="14">null</step>
+			<step id="15">null</step>
+		</match>
+	</sport>
+	<sport id="2">
+		null
+	</sport>
+</info>
+<!--  ************************* fin devoir 7 ***********************  -->
+</tpXML>

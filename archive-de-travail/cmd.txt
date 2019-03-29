@@ -1,0 +1,4845 @@
+
+(13:22:40,64)D:\TP_DOS > clscls /?
+'clscls' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+                                                                                                      (13:22:54,23)D:\TP_DOS > cls /?                                                                       Efface l’écran.
+
+CLS
+
+(13:23:05,47)D:\TP_DOS > test
+salut 1
+salut 2
+
+(13:23:13,99)D:\TP_DOS > rem echo salut 3
+salut 4
+salut 6
+errorlevel = 9009
+Appuyez sur une touche pour continuer...
+
+Commande ECHO désactivée.
+
+(13:23:44,50)D:\TP_DOS > test
+salut 1
+salut 2
+
+(13:25:52,12)D:\TP_DOS > rem echo salut 3
+salut 4
+salut 6
+errorlevel = 9009
+Appuyez sur une touche pour continuer...
+
+Commande ECHO désactivée.
+%
+
+(13:25:54,06)D:\TP_DOS > test
+salut 1
+salut 2
+
+(13:28:00,11)D:\TP_DOS > rem echo salut 3
+salut 4
+salut 6
+errorlevel = 9009
+Appuyez sur une touche pour continuer...
+
+Commande ECHO désactivée.
+%
+
+(13:28:01,62)D:\TP_DOS > test
+salut 1
+salut 2
+
+(13:31:51,62)D:\TP_DOS > rem echo salut 3
+salut 4
+salut 6
+errorlevel = 9009
+Appuyez sur une touche pour continuer...
+
+Commande ECHO désactivée.
+%
+(13:31:53,37)D:\TP_DOS > test
+salut 1
+salut 2
+
+(13:35:25,96)D:\TP_DOS > rem echo salut 3
+salut 4
+salut 6
+errorlevel = 9009
+Appuyez sur une touche pour continuer...
+
+Commande ECHO désactivée.
+%
+18674
+
+(13:35:26,89)D:\TP_DOS > test
+salut 1
+salut 2
+
+(13:38:16,24)D:\TP_DOS > rem echo salut 3
+salut 4
+salut 6
+errorlevel = 9009
+Appuyez sur une touche pour continuer...
+
+Commande ECHO désactivée.
+%
+28206
+
+(13:38:17,50)D:\TP_DOS > test
+salut 1
+salut 2
+
+(13:38:46,66)D:\TP_DOS > rem echo salut 3
+salut 4
+salut 6
+errorlevel = 9009
+Appuyez sur une touche pour continuer...
+
+Commande ECHO désactivée.
+%
+25744
+Commande ECHO désactivée.
+
+(13:38:50,64)D:\TP_DOS > test
+salut 1
+salut 2
+
+(13:39:30,84)D:\TP_DOS > rem echo salut 3
+salut 4
+
+(13:39:30,85)D:\TP_DOS > set vartest=5
+
+(13:39:30,85)D:\TP_DOS > goto mark1
+
+(13:39:30,85)D:\TP_DOS > echo salut 6
+salut 6
+
+(13:39:30,85)D:\TP_DOS > echo errorlevel = 9009
+errorlevel = 9009
+
+(13:39:30,85)D:\TP_DOS > pause
+Appuyez sur une touche pour continuer...
+
+(13:39:53,58)D:\TP_DOS > echo.
+
+
+(13:39:53,58)D:\TP_DOS > echo
+Commande ECHO activée.
+
+(13:39:53,60)D:\TP_DOS > echo %
+%
+
+(13:39:53,60)D:\TP_DOS > echo 3295
+3295
+
+(13:39:53,61)D:\TP_DOS > set vartest=
+
+(13:39:53,62)D:\TP_DOS > echo
+Commande ECHO activée.
+
+(13:39:53,63)D:\TP_DOS > test
+salut 1
+salut 2
+
+(13:41:04,94)D:\TP_DOS > rem echo salut 3
+salut 4
+
+(13:41:04,94)D:\TP_DOS > set vartest=5
+
+(13:41:04,94)D:\TP_DOS > goto mark1
+
+(13:41:04,94)D:\TP_DOS > echo salut 6
+salut 6
+
+(13:41:04,95)D:\TP_DOS > echo errorlevel = 9009
+errorlevel = 9009
+
+(13:41:04,95)D:\TP_DOS > pause
+Appuyez sur une touche pour continuer...
+
+(13:41:06,31)D:\TP_DOS > echo.
+
+
+(13:41:06,31)D:\TP_DOS > echo
+Commande ECHO activée.
+
+(13:41:06,32)D:\TP_DOS > echo %
+%
+
+(13:41:06,33)D:\TP_DOS > echo "random "30851
+"random "30851
+
+(13:41:06,33)D:\TP_DOS > set vartest=
+
+(13:41:06,34)D:\TP_DOS > echo
+Commande ECHO activée.
+
+(13:41:06,35)D:\TP_DOS > test
+salut 1
+salut 2
+
+(13:41:24,65)D:\TP_DOS > rem echo salut 3
+salut 4
+
+(13:41:24,65)D:\TP_DOS > set vartest=5
+
+(13:41:24,66)D:\TP_DOS > goto mark1
+
+(13:41:24,66)D:\TP_DOS > echo salut 6
+salut 6
+
+(13:41:24,66)D:\TP_DOS > echo errorlevel = 9009
+errorlevel = 9009
+
+(13:41:24,66)D:\TP_DOS > pause
+Appuyez sur une touche pour continuer...
+
+(13:41:25,89)D:\TP_DOS > echo.
+
+
+(13:41:25,89)D:\TP_DOS > echo
+Commande ECHO activée.
+
+(13:41:25,89)D:\TP_DOS > echo %
+%
+
+(13:41:25,89)D:\TP_DOS > echo random 13075
+random 13075
+
+(13:41:25,89)D:\TP_DOS > set vartest=
+
+(13:41:25,89)D:\TP_DOS > echo
+Commande ECHO activée.
+
+(13:41:25,90)D:\TP_DOS > test
+salut 1
+salut 2
+
+(13:42:03,37)D:\TP_DOS > rem echo salut 3
+salut 4
+
+(13:42:03,37)D:\TP_DOS > set vartest=5
+
+(13:42:03,37)D:\TP_DOS > goto mark1
+
+(13:42:03,37)D:\TP_DOS > echo salut 6
+salut 6
+
+(13:42:03,38)D:\TP_DOS > echo errorlevel = 9009
+errorlevel = 9009
+
+(13:42:03,38)D:\TP_DOS > pause
+Appuyez sur une touche pour continuer...
+
+(13:42:04,56)D:\TP_DOS > echo.
+
+
+(13:42:04,56)D:\TP_DOS > echo
+Commande ECHO activée.
+
+(13:42:04,57)D:\TP_DOS > echo %
+%
+
+(13:42:04,58)D:\TP_DOS > echo random 18779
+random 18779
+
+(13:42:04,59)D:\TP_DOS > echo 5
+5
+
+(13:42:04,59)D:\TP_DOS > test
+salut 1
+salut 2
+
+(13:44:29,36)D:\TP_DOS > rem echo salut 3
+salut 4
+
+(13:44:29,36)D:\TP_DOS > set vartest=5
+
+(13:44:29,36)D:\TP_DOS > goto mark1
+
+(13:44:29,36)D:\TP_DOS > echo salut 6
+salut 6
+
+(13:44:29,36)D:\TP_DOS > echo errorlevel = 9009
+errorlevel = 9009
+
+(13:44:29,37)D:\TP_DOS > pause
+Appuyez sur une touche pour continuer...
+
+(13:44:30,61)D:\TP_DOS > echo.
+
+
+(13:44:30,62)D:\TP_DOS > echo
+Commande ECHO activée.
+
+(13:44:30,62)D:\TP_DOS > echo %
+%
+
+(13:44:30,63)D:\TP_DOS > echo random 14663
+random 14663
+
+(13:44:30,63)D:\TP_DOS > echo 5
+5
+La syntaxe de la commande n’est pas correcte.
+
+(13:44:30,64)D:\TP_DOS > set /p vartest=>
+
+(13:44:30,64)D:\TP_DOS > test
+salut 1
+salut 2
+
+(13:44:57,92)D:\TP_DOS > rem echo salut 3
+salut 4
+
+(13:44:57,92)D:\TP_DOS > set vartest=5
+
+(13:44:57,92)D:\TP_DOS > goto mark1
+
+(13:44:57,92)D:\TP_DOS > echo salut 6
+salut 6
+
+(13:44:57,92)D:\TP_DOS > echo errorlevel = 9009
+errorlevel = 9009
+
+(13:44:57,92)D:\TP_DOS > pause
+Appuyez sur une touche pour continuer...
+
+(13:44:59,27)D:\TP_DOS > echo.
+
+
+(13:44:59,28)D:\TP_DOS > echo
+Commande ECHO activée.
+
+(13:44:59,29)D:\TP_DOS > echo %
+%
+
+(13:44:59,29)D:\TP_DOS > echo random 809
+random 809
+
+(13:44:59,30)D:\TP_DOS > echo 5
+5
+La syntaxe de la commande n’est pas correcte.
+
+(13:44:59,31)D:\TP_DOS > set /p vartest=>
+
+(13:44:59,31)D:\TP_DOS > test
+
+(13:46:33,21)D:\TP_DOS > set vartest=5
+
+(13:46:33,21)D:\TP_DOS > echo 5
+5
+La syntaxe de la commande n’est pas correcte.
+
+(13:46:33,21)D:\TP_DOS > set /p vartest=>
+
+(13:46:33,21)D:\TP_DOS > test
+
+(13:47:36,43)D:\TP_DOS > set vartest=5
+
+(13:47:36,43)D:\TP_DOS > echo 5
+5
+
+(13:47:36,44)D:\TP_DOS > set /p vartest=
+55
+
+(13:47:48,93)D:\TP_DOS > echo 55
+55
+
+(13:47:48,93)D:\TP_DOS > set /?
+Affiche, fixe ou supprime des variables d’environnement de cmd.exe.
+
+SET [variable=[chaîne]]
+
+  variable  Nom de la variable d’environnement.
+  chaîne    Chaîne de caractères à affecter à la variable.
+
+SET sans paramètres affiche les variables d’environnement définies.
+
+Si les extensions de commandes sont activées, SET est modifié comme suit :
+
+La commande SET appelée avec un nom de variable seulement, sans signe égal
+ou valeur, affiche la valeur de toutes les variables dont le préfixe correspond
+au nom donné à la commande SET. Par exemple :
+
+    SET P
+
+affiche toutes les variables qui commence avec la lettre 'P'
+
+La commande SET fixe la valeur ERRORLEVEL à 1 si le nom de variable n’est
+pas trouvé dans l’environnement en cours.
+
+La commande SET n’autorise pas qu’un signe égal (=) fasse partie du nom d’une
+variable.
+
+Deux nouvelles options ont été ajoutées à la commande SET :
+    SET /A expression
+    SET /P variable=[ChaîneInvite]
+
+L’option /A spécifie que la chaîne à droite du signe égal est une
+expression numérique qui est évaluée. L’évaluation de l’expression est assez
+simple et prend en charge les opérations suivantes dans l’ordre décroissant
+de préséance :
+
+    ()                   - groupement
+    ! ~ -                - opérateurs unaires
+    * / %                - opérateurs arithmétiques
+    + -                  - opérateurs arithmétiques
+    << >>                - décalage logique
+    &                    - ET au niveau du bit
+    ^                    - OU exclusif au niveau du bit
+    |                    - OU au niveau du bit
+    = *= /= %= += -=     - attribution
+      &= ^= |= <<= >>=
+    ,                    - séparateur d’expression
+
+Si vous utilisez des opérateurs logiques ou des nombres, vous devez mettre
+l’expression entre guillemets. Toute chaîne non numérique dans l’expression est
+traitée comme une variable d’environnement dont les valeurs sont converties en
+nombres avant d’être utilisées. Si un nom de variable d’environnement est
+spécifié mais n’est pas défini dans l’environnement en cours, alors la valeur
+zéro est utilisée. Cela vous permet de faire des opérations avec les valeurs
+d’une variable d’environnement sans avoir à entrer des signes % pour obtenir
+ces valeurs. Si SET /A est exécuté à partir de la ligne de commande en dehors
+d’un script de commande, alors la valeur finale de l’expression est affichée.
+L’opérateur d’assignation requiert un nom de variable d’environnement à
+gauche du cet opérateur. Les valeurs numériques sont des nombres décimaux, à
+moins qu’ils ne soient préfixés par 0x pour les valeurs hexadécimales et 0
+pour la notation octale. Donc 0x12 est identique à 18 et
+à 022. Notez que la notation octale peut être confuse : 08 et 09 ne sont pas
+valides car 8 et 9 ne sont pas des nombres valides en notation octale.
+
+L’option /P vous permet de fixer la valeur d’une variable avec une ligne
+entrée par l’utilisateur. Elle affiche la chaîne ChaîneInvite spécifiée
+avant de lire la ligne entrée. La ChaîneInvite peut être vide.
+
+La substitution de la variable d’environnement a été améliorée comme suit :
+
+    %PATH:ch1=ch2%
+
+développe la variable d’environnement PATH, remplaçant chaque
+occurrence de "ch1" dans le résultat développé par "ch2".  "ch2" peut être
+une chaîne vide pour supprimer toutes les occurrences de "ch1" de la sortie
+développée. "ch1" peut commencer par un astérisque, auquel cas
+la commande traitera la chaîne à partir du début et jusqu’à la première
+occurrence du reste de ch1.
+
+Vous pouvez aussi spécifier des sous-chaînes pour une expression.
+
+    %PATH:~10,5%
+
+développe la variable d’environnement PATH et utilise seulement 5
+caractères à partir du onzième (décalage de 10)  dans le résultat sous forme
+développée. Si la longueur n’est pas spécifiée, tout le reste de la valeur
+de la variable est traité. Si l’une des valeurs (décalage ou longueur)
+est négative, alors le nombre utilisé est la longueur de la valeur de la
+variable d’environnement ajoutée au décalage ou à la longueur donné.
+
+    %PATH:~-10%
+
+extrait les 10 derniers caractères de la variable PATH.
+
+    %PATH:~0,-2%
+
+extrait tous les caractères sauf les deux derniers de la variable PATH.
+
+Enfin, la prise en charge de l’expansion retardée de variables d’environnement
+a été ajoutée. Cette prise en charge est toujours désactivée par défaut, mais
+Appuyez sur une touche pour continuer...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+peut être activée/désactivée via l’option de ligne de commande /V dans CMD.EXE.
+Voir CMD /?
+
+La prise en charge de l’expansion retardée de variables d’environnement est
+utile pour contourner les limites de l’expansion en cours qui se produit à la
+lecture d’une ligne de texte et non à son exécution. L’exemple suivant montre
+le problème causé par l’expansion immédiate de variables :
+
+    set VAR=avant
+    if "%VAR%" == "avant" (
+        set VAR=après
+        if "%VAR%" == "après" @echo Cela marche si vous lisez ce message
+    )
+
+n’affichera jamais le message car la variable %VAR% présente dans les deux
+instances de IF est remplacée à la lecture de la première instance de IF, étant
+donné que le corps de IF, instruction composée, est logiquement inclus. Donc le
+IF compris dans l’instance compare "avant" avec "après" et il n’y aura jamais
+égalité. De même, l’exemple suivant ne fonctionnera pas comme prévu :
+
+    set LIST=
+    for %i in (*) do set LIST=%LIST% %i
+    echo %LIST%
+
+car la liste des fichiers du répertoire ne sera PAS créée, et en fait la
+variable LIST prendra le valeur du dernier fichier trouvé. Une fois encore
+cela est dû au fait que %LIST% n’est étendu qu’une fois, lorsque FOR est
+lu et à ce stade la variable LIST est vide. Donc la boucle FOR exécutée est :
+
+    for %i in (*) do set LIST= %i
+
+qui donne toujours à LIST la valeur du dernier fichier trouvé.
+
+L’expansion retardée de variables d’environnement vous permet d’utiliser un
+autre caractère (le point d’exclamation) afin d’étendre les variables
+d’environnement durant l’exécution. Si l’expansion retardée de variables est
+activée, les exemples ci-dessus peuvent être écrits comme suit afin de
+fonctionner comme vous le souhaitez :
+
+    set VAR=avant
+    if "%VAR%" == "avant" (
+        set VAR=après
+        if "!VAR!" == "après" @echo Cela marche si vous lisez ce message
+    )
+
+    set LIST=
+    for %i in (*) do set LIST=!LIST! %i
+    echo %LIST%
+
+Si les extensions de commandes sont activées, alors plusieurs variables
+d’environnement dynamiques peuvent être développées sans apparaître dans la
+liste de variables affichée par SET. Les valeurs de ces variables sont
+calculées dynamiquement chaque fois que la variable est développée. Si
+l’utilisateur définit explicitement une variable avec un de ces noms, alors
+cette définition écrase la définition dynamique décrite ci-dessous :
+
+%CD% - se développe en la chaîne du répertoire en cours.
+
+%DATE% - se développe en la date actuelle en utilisant le même
+           format que la commande DATE.
+
+%TIME% - se développe en l’heure en cours en utilisant le même
+           format que la commande TIME.
+
+%RANDOM% - se développe en un nombre aléatoire compris entre 0 et 32767.
+
+%ERRORLEVEL% - se développe en la valeur en cours de ERRORLEVEL
+
+%CMDEXTVERSION% - se développe en le numéro de version des
+                    extensions du processeur de commande en cours.
+
+%CMDCMDLINE% - se développe en la ligne de commande originale
+                 qui a appelé le processeur de commande.
+
+%HIGHESTNUMANODENUMBER% - se développe en numéro de nœud NUMA le plus élevé
+                            sur cet ordinateur.
+
+(13:55:36,65)D:\TP_DOS > test
+
+(13:56:33,06)D:\TP_DOS > set vartest=5
+
+(13:56:33,07)D:\TP_DOS > echo 5
+5
+
+(13:56:33,07)D:\TP_DOS > set /p vartest=entrez valeur
+entrez valeur65
+
+(13:56:39,78)D:\TP_DOS > echo 65
+65
+
+(13:56:39,78)D:\TP_DOS > test
+5
+entrez valeur55
+55
+
+(14:06:44,99)D:\TP_DOS > test
+5
+entrez valeur : 22
+22
+
+(14:07:13,39)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+'else' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+(14:09:58,27)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+=7 était inattendu.
+
+(14:10:48,45)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+'else' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+(14:13:44,73)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+(14:14:10,59)D:\TP_DOS > test
+5 + 2 egale ? : 6
+(14:14:16,27)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+(14:14:43,33)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK else (echo pas bon)
+(14:15:28,73)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+(14:16:02,71)D:\TP_DOS > test
+5 + 2 egale ? : 5
+pas bon
+(14:16:08,69)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+(14:17:03,84)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+(14:18:25,26)D:\TP_DOS > test
+5 + 2 egale ? : 5
+pas bon; goto mark2
+(14:18:30,44)D:\TP_DOS > test
+5 + 2 egale ? : 5
+"pas bon"; goto mark2
+(14:19:12,31)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+(14:20:01,16)D:\TP_DOS > test
+5 + 2 egale ? : 5
+pas bon
+5 + 2 egale ? : 3
+pas bon
+5 + 2 egale ? : 2
+pas bon
+5 + 2 egale ? : 7
+OK
+(14:21:09,52)D:\TP_DOS > test
+5 + 2 egale ? : 5
+pas bon
+5 + 2 egale ? : 2
+pas bon
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 2
+(echo était inattendu.
+
+(14:23:18,26)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 4
+pas bon
+
+(14:23:55,45)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 5
+
+(14:24:04,99)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 5
+nec était inattendu.
+
+(14:26:26,49)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 5
+NEC était inattendu.
+
+(14:26:49,67)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 5
+NEC était inattendu.
+
+(14:27:43,91)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 5
+pas bon
+
+(14:28:56,10)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+var2=lorem ipsum
+var2
+(14:35:20,10)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 4
+(14:36:00,83)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 4
+var2=lorem ipsum
+(14:36:26,06)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 5
+pas bon
+var2
+(14:36:46,80)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 5
+pas bon
+lorem ipsum
+(14:37:04,12)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 5
+pas bon
+"lorem ipsum"
+(14:37:29,43)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+"lorem ipsum"
+(14:37:45,90)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 5
+pas bon
+lorem ipsum
+(14:38:08,36)D:\TP_DOS > test
+5 + 2 egale ? : 3
+pas bon
+5 + 2 egale ? : 5
+pas bon
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 5
+'1' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+Le système ne trouve pas le nom de fichier de commandes - mark2)
+
+(14:44:58,16)D:\TP_DOS > test
+5 + 2 egale ? : 3
+pas bon
+5 + 2 egale ? : 7
+OK
+0
+2 + 2 egale ? : 4
+lorem ipsum
+(14:46:20,28)D:\TP_DOS > test
+5 + 2 egale ? : 3
+pas bon
+5 + 2 egale ? : 7
+OK
+vari=0
+2 + 2 egale ? : 5
+'egale' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+pas bon
+lorem ipsum
+(14:48:35,43)D:\TP_DOS > test
+5 + 2 egale ? : 3
+pas bon
+vari=1
+5 + 2 egale ? : 5
+pas bon
+vari=1
+5 + 2 egale ? :
+pas bon
+vari=1
+5 + 2 egale ? : 7
+OK
+vari=1
+finallement !
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+(14:49:19,42)D:\TP_DOS > test
+5 + 2 egale ? : 5
+pas bon
+vari=1
+5 + 2 egale ? : 7
+OK
+vari=1
+finallement !
+2 + 2 egale ? : 5
+'cho' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+lorem ipsum
+(14:50:06,43)D:\TP_DOS > test
+5 + 2 egale ? : 2
+pas bon
+vari=1
+5 + 2 egale ? : 7
+OK
+vari=1
+finallement !
+2 + 2 egale ? : 5
+pas bon
+lorem ipsum
+(14:50:59,21)D:\TP_DOS > test
+5 + 2 egale ? : 5
+pas bon
+vari=1
+5 + 2 egale ? : 7
+OK
+finallement !
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+(14:51:52,74)D:\TP_DOS > test
+5 + 2 egale ? : 5
+pas bon
+5 + 2 egale ? : 7
+OK
+finallement !
+2 + 2 egale ? : 5
+pas bon
+lorem ipsum
+(14:52:16,20)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 4
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+(14:59:25,91)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 5
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+(15:02:28,97)D:\TP_DOS > tree /?
+Affiche graphiquement la structure de dossiers d’un lecteur ou d’un chemin.
+
+TREE [lecteur:][chemin] [/F] [/A]
+
+   /F   Affiche le nom des fichiers de chaque répertoire.
+   /A   Utilise ASCII au lieu des caractères étendus.
+
+
+(16:04:59,85)D:\TP_DOS > test
+5 + 2 egale ? : 5
+pas bon
+5 + 2 egale ? : 7
+OK
+finallement !
+2 + 2 egale ? : 4
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+ipsum==y était inattendu.
+
+(16:20:04,84)D:\TP_DOS > test
+5 + 2 egale ? : 5
+pas bon
+5 + 2 egale ? : 7
+OK
+finallement !
+2 + 2 egale ? : 4
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+ipsum==y était inattendu.
+
+(16:21:15,03)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 4
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+ipsum==y était inattendu.
+
+(16:21:32,85)D:\TP_DOS > test
+5 + 2 egale ? : 5
+pas bon
+5 + 2 egale ? : 7
+OK
+finallement !
+2 + 2 egale ? : 4
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+( était inattendu.
+
+(16:23:05,92)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 4
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+( était inattendu.
+
+(16:24:06,49)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 4
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+( était inattendu.
+
+(16:25:04,89)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? : 4
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+( était inattendu.
+
+(16:26:37,96)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+'ot' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+test existe pas, creer test ? y ou non non
+else( était inattendu.
+
+(16:28:23,30)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+else( était inattendu.
+
+(16:29:06,14)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+else( était inattendu.
+
+(16:29:42,24)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+else( était inattendu.
+
+(16:31:47,60)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+else( était inattendu.
+
+(16:32:51,28)D:\TP_DOS > tree d:\ /f
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 00000209 7867:C761
+D:\
++---test
++---TP_DOS
+    ¦   etude.txt
+    ¦   help.txt
+    ¦   test.bat
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---windows
+        +---system
+
+(16:36:15,30)D:\TP_DOS > test
+5 + 2 egale ? : 5
+pas bon
+5 + 2 egale ? : 7
+OK
+finallement !
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+else( était inattendu.
+
+(16:36:34,83)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+) était inattendu.
+
+(16:37:08,70)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+::else( était inattendu.
+
+(16:39:04,58)D:\TP_DOS > test
+5 + 2 egale ? :
+OK
+2 + 2 egale ? : 7
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+::else( était inattendu.
+
+(16:39:48,73)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+(16:40:46,11)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+debut if dir
+Appuyez sur une touche pour continuer...
+(16:41:33,13)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+debut if dir
+Appuyez sur une touche pour continuer...
+(16:45:14,44)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+debut if dir
+Appuyez sur une touche pour continuer...
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 000002D0 7867:C761
+D:\
++---test
++---TP_DOS
+    ¦   etude.txt
+    ¦   help.txt
+    ¦   test.bat
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---windows
+        +---system
+(16:46:13,41)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+debut if dir
+Appuyez sur une touche pour continuer...
+(16:46:57,47)D:\TP_DOS > if not exist "d:\test\" (echo jjjjjj)
+
+(16:47:33,84)D:\TP_DOS > if exist "d:\test\" (echo jjjjjj)
+jjjjjj
+
+(16:47:53,46)D:\TP_DOS > tree d:\ /f
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 000001CD 7867:C761
+D:\
++---test
++---TP_DOS
+    ¦   etude.txt
+    ¦   help.txt
+    ¦   test.bat
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---windows
+        +---system
+
+(16:48:26,81)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+debut if dir
+Appuyez sur une touche pour continuer...
+jjjjjj
+test existe pas, creer test ? y ou nonn
+(16:49:21,37)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+debut if dir
+Appuyez sur une touche pour continuer...
+else( était inattendu.
+
+(16:50:19,77)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+debut if dir
+Appuyez sur une touche pour continuer...
+else( était inattendu.
+
+(16:50:46,07)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+debut if dir
+Appuyez sur une touche pour continuer...
+else( était inattendu.
+
+(16:51:25,48)D:\TP_DOS > set /p var5=test existe pas, creer test ? y ou non
+test existe pas, creer test ? y ou non if %var5%==y (
+
+(16:52:19,79)D:\TP_DOS > mkdir test
+
+(16:52:19,79)D:\TP_DOS > echo cathalogue test2 cree
+cathalogue test2 cree
+
+(16:52:19,79)D:\TP_DOS > tree d:\ /f
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 7867-C761
+D:\
++---test
++---TP_DOS
+    ¦   etude.txt
+    ¦   help.txt
+    ¦   test.bat
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---test
+    +---windows
+        +---system
+
+(16:52:19,82)D:\TP_DOS > )else(
+')else' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+(16:52:19,82)D:\TP_DOS > echo cathalogue test2 n'est pas cree'
+cathalogue test2 n'est pas cree'
+
+(16:52:19,82)D:\TP_DOS > tree d:\ /f
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 000001ED 7867:C761
+D:\
++---test
++---TP_DOS
+    ¦   etude.txt
+    ¦   help.txt
+    ¦   test.bat
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---test
+    +---windows
+        +---system
+
+(16:52:19,85)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+debut if dir
+Appuyez sur une touche pour continuer...
+%var5%==y était inattendu.
+
+(16:54:22,12)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+debut if dir
+Appuyez sur une touche pour continuer...
+else( était inattendu.
+
+(16:55:05,45)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+debut if dir
+Appuyez sur une touche pour continuer...
+) était inattendu.
+
+(16:55:38,89)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+debut if dir
+Appuyez sur une touche pour continuer...
+) était inattendu.
+
+(16:58:11,56)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+Appuyez sur une touche pour continuer...
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+debut if dir
+Appuyez sur une touche pour continuer...
+) était inattendu.
+
+(16:59:30,11)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+) était inattendu.
+
+(17:00:53,36)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+) était inattendu.
+
+(17:01:20,97)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+) était inattendu.
+
+(17:02:47,00)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+else( était inattendu.
+
+(17:03:22,27)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+else( était inattendu.
+
+(17:04:52,58)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+else( était inattendu.
+
+(17:05:12,22)D:\TP_DOS >
+(17:05:12,76)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+else( était inattendu.
+
+(17:05:33,73)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+jjjjjj
+(17:05:57,34)D:\TP_DOS > test
+5 + 2 egale ? :
+OK
+2 + 2 egale ? : 7
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+jjjjjj
+test2 existe pas, creer test ? y ou non n
+(17:06:37,33)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non y
+(17:07:14,85)D:\TP_DOS > 7
+'7' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+(17:07:45,84)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+) était inattendu.
+
+(17:07:52,99)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+) était inattendu.
+
+(17:08:19,11)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+) était inattendu.
+
+(17:08:45,58)D:\TP_DOS > test
+5 + 2 egale ? :
+OK
+2 + 2 egale ? : 7
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+La syntaxe de la commande n’est pas correcte.
+
+(17:09:04,99)D:\TP_DOS >
+(17:09:06,64)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non
+1
+(17:10:05,12)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non
+1
+(17:11:10,24)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non
+var5
+(17:11:33,88)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non
+y
+(17:12:02,89)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non non
+y
+(17:12:30,78)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non hh
+(17:13:12,96)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non y
+(17:13:31,01)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non y
+y
+y 2fois
+(17:14:14,62)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non non
+y
+y 2fois
+(17:14:31,17)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non non
+non 2fois
+(17:15:18,02)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non y
+non 2fois
+(17:15:32,00)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non y
+y
+y 2fois
+(17:19:11,60)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non non
+y
+y 2fois
+(17:19:24,67)D:\TP_DOS > set /p "var5=test2 existe pas, creer test ? y ou non "
+test2 existe pas, creer test ? y ou non y
+
+(17:21:50,00)D:\TP_DOS > set var5
+var5=y
+
+(17:22:00,42)D:\TP_DOS > set /p "var5=test2 existe pas, creer test ? y ou non "
+test2 existe pas, creer test ? y ou non non
+
+(17:22:12,91)D:\TP_DOS > set var5
+var5=non
+
+(17:22:16,84)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non : y
+non 2fois
+(17:23:02,71)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non : y
+0 2fois
+(17:23:50,28)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non : y
+y 2fois
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non : y
+y 2fois
+(17:25:00,40)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non : non
+non 1fois
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non : y
+non 2fois
+(17:25:27,32)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non : y
+y 1fois
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non : non
+y 2fois
+(17:26:38,60)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non : y
+y 1fois
+Appuyez sur une touche pour continuer...
+d:\TP_DOS\test2\ existe pas
+(17:28:45,18)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non : y
+y 1fois
+Appuyez sur une touche pour continuer...
+d:\TP_DOS\test2\ existe pas
+(17:29:25,98)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non : y
+y 1fois
+Appuyez sur une touche pour continuer...
+d:\TP_DOS\test2\ existe pas
+(17:29:55,09)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non : y
+y 1fois
+Appuyez sur une touche pour continuer...
+d:\TP_DOS\test2\ existe
+(17:30:41,45)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non :
+0 1fois
+Appuyez sur une touche pour continuer...
+d:\TP_DOS\test2\ existe pas
+(17:31:24,99)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non :
+0 1fois
+Appuyez sur une touche pour continuer...
+d:\TP_DOS\test2\ existe pas
+creer un ?
+(17:32:10,61)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non :
+0 1fois
+Appuyez sur une touche pour continuer...
+d:\TP_DOS\test2\ existe pas
+creer un ?
+(17:33:53,44)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non :
+0 1fois
+Appuyez sur une touche pour continuer...
+d:\TP_DOS\test2\ existe pas
+creer un ?
+y ou non : y
+Commande ECHO désactivée.
+(17:35:39,13)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non : y
+y 1fois
+Appuyez sur une touche pour continuer...
+d:\TP_DOS\test2\ existe pas
+creer un ?
+y ou non : y
+y
+Appuyez sur une touche pour continuer...
+y ou non : y
+y
+(17:38:12,27)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non :
+0 1fois
+Appuyez sur une touche pour continuer...
+d:\TP_DOS\test2\ existe pas
+creer un ?
+y ou non :
+y
+Appuyez sur une touche pour continuer...
+y ou non :
+Commande ECHO désactivée.
+(17:39:28,55)D:\TP_DOS > test
+5 + 2 egale ? :
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+debut if dir
+Appuyez sur une touche pour continuer...
+test2 existe pas, creer test ? y ou non :
+0 1fois
+Appuyez sur une touche pour continuer...
+d:\TP_DOS\test2\ existe pas
+creer un ?
+y ou non : y
+y
+Appuyez sur une touche pour continuer...
+y ou non : y
+y
+(17:40:19,13)D:\TP_DOS > test2
+
+(17:43:49,23)D:\TP_DOS > if not exist "d:\TP_DOS\test2\" (
+echo d:\TP_DOS\test2\ existe pas
+ echo creer un ?
+ set /p "var6=y ou non : "
+ echo y
+)  else (
+echo d:\TP_DOS\test2\ existe
+ echo effaser ?
+)
+d:\TP_DOS\test2\ existe pas
+creer un ?
+y ou non :
+y
+
+(17:43:52,05)D:\TP_DOS > pause
+Appuyez sur une touche pour continuer...
+
+(17:44:00,02)D:\TP_DOS > set /p "var7=y ou non : "
+y ou non :
+
+(17:44:02,74)D:\TP_DOS > echo y
+y
+(17:44:02,74)D:\TP_DOS > test2
+
+(17:44:54,62)D:\TP_DOS > if not exist "d:\TP_DOS\test2\" (
+echo d:\TP_DOS\test2\ existe pas
+ echo creer un ?
+ set /p "var8=y ou non : "
+ echo
+)  else (
+echo d:\TP_DOS\test2\ existe
+ echo effaser ?
+)
+d:\TP_DOS\test2\ existe pas
+creer un ?
+y ou non :
+Commande ECHO activée.
+
+(17:45:16,83)D:\TP_DOS > pause
+Appuyez sur une touche pour continuer...
+
+(17:45:17,28)D:\TP_DOS > set /p "var9=y ou non : "
+y ou non :
+
+(17:45:17,72)D:\TP_DOS > echo
+Commande ECHO activée.
+(17:45:17,72)D:\TP_DOS >
+(17:45:18,19)D:\TP_DOS > test2
+d:\TP_DOS\test2\ existe pas
+creer un ?
+y ou non :
+Commande ECHO désactivée.
+Appuyez sur une touche pour continuer...
+y ou non :
+Commande ECHO désactivée.
+(17:46:12,43)D:\TP_DOS > test2
+d:\TP_DOS\test2\ existe pas
+creer un ?
+y ou non : y
+Commande ECHO désactivée.
+Appuyez sur une touche pour continuer...
+y ou non : y
+y
+(17:46:35,78)D:\TP_DOS > test2
+d:\TP_DOS\test2\ existe pas
+creer un ?
+y ou non : y
+y
+Appuyez sur une touche pour continuer...
+'use' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+y ou non :
+var9 y
+(17:47:40,77)D:\TP_DOS > test2
+d:\TP_DOS\test2\ existe pas
+creer un ?
+y ou non : y
+var8 y
+Appuyez sur une touche pour continuer...
+y ou non : y
+var9 y
+(17:47:54,42)D:\TP_DOS > test2
+d:\TP_DOS\test2\ existe pas
+creer un ?
+y ou non : n
+var8 y
+Appuyez sur une touche pour continuer...
+y ou non : n
+var9 n
+(17:48:09,23)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+test2 existe pas, creer test ? y ou non : n
+n 1fois
+
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+(10:25:22,51)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+(10:25:44,19)D:\TP_DOS >
+(10:25:57,19)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+(10:26:11,76)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+(10:27:51,91)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+(10:28:17,77)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+debut
+
+(10:29:07,96)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+debut
+Le fichier spécifié est introuvable.
+
+(10:30:23,69)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+debut
+
+(10:31:11,89)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+debut
+fin
+(10:32:17,00)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+debut
+2
+fin
+(10:32:51,56)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+debut
+2
+fin
+) était inattendu.
+(10:53:42,10)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+debut
+2
+fin
+test2 existe pas
+creer un ?
+y ou non : n
+test2 n'est pas cree
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 7867-C761
+D:\
++---TP_DOS
+    ¦   etude.txt
+    ¦   help.txt
+    ¦   test.bat
+    ¦   test2.bat
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---windows
+        +---system
+Appuyez sur une touche pour continuer...
+y ou non : t
+t
+(10:54:58,43)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+test2 existe pas
+creer un ?
+y ou non : y
+-----------------------------
+test2 est cree
+-----------------------------
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 7867-C761
+D:\
++---TP_DOS
+    ¦   etude.txt
+    ¦   help.txt
+    ¦   test.bat
+    ¦   test2.bat
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---test2
+    +---windows
+        +---system
+'pas' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+-----------------------------
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 00000264 7867:C761
+D:\
++---TP_DOS
+    ¦   etude.txt
+    ¦   help.txt
+    ¦   test.bat
+    ¦   test2.bat
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---test2
+    +---windows
+        +---system
+(10:56:58,45)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+-----------------------------
+test2 existe
+effacer ?
+y ou non : y
+-----------------------------
+test2 est effacee
+-----------------------------
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 000002C8 7867:C761
+D:\
++---TP_DOS
+    ¦   etude.txt
+    ¦   help.txt
+    ¦   test.bat
+    ¦   test2.bat
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---windows
+        +---system
+(10:58:04,59)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+
+Appuyez sur une touche pour continuer...
+-----------------------------
+test2 existe pas
+creer un ?
+y ou non : y
+-----------------------------
+test2 est cree
+-----------------------------
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 000002B4 7867:C761
+D:\
++---TP_DOS
+    ¦   etude.txt
+    ¦   help.txt
+    ¦   test.bat
+    ¦   test2.bat
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---test2
+    +---windows
+        +---system
+-----------------------------
+(10:59:12,11)D:\TP_DOS > test
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+-----------------------------
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+-----------------------------
+test2 existe
+effacer ?
+y ou non : n
+-----------------------------
+test2 n'est pas effacee
+-----------------------------
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 0000021A 7867:C761
+D:\
++---TP_DOS
+    ¦   etude.txt
+    ¦   help.txt
+    ¦   test.bat
+    ¦   test2.bat
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---test2
+    +---windows
+        +---system
+-----------------------------
+(11:00:40,20)D:\TP_DOS > path
+PATH=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Rational\common;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;
+
+(11:01:13,71)D:\TP_DOS > set part=%path%;d:\tp_dos
+
+(11:04:07,73)D:\TP_DOS > path
+PATH=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Rational\common;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;
+
+(11:04:10,20)D:\TP_DOS > set path=%path%;d:\tp_dos
+
+(11:04:43,18)D:\TP_DOS > path
+PATH=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Rational\common;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;;d:\tp_dos
+
+(11:04:45,53)D:\TP_DOS > set tmp
+TMP=C:\Users\admin\AppData\Local\Temp
+
+(11:05:25,56)D:\TP_DOS > path>path-sauv.txt
+
+(11:06:49,11)D:\TP_DOS > type /?
+Affiche le contenu d’un ou plusieurs fichiers texte.
+
+TYPE [lecteur:][chemin]nom_de_fichier
+
+(11:09:34,33)D:\TP_DOS > type null > tile.txt
+Le fichier spécifié est introuvable.
+
+(11:10:13,21)D:\TP_DOS > type null > file.txt
+Le fichier spécifié est introuvable.
+
+(11:10:57,41)D:\TP_DOS > type nul > file.txt
+
+(11:11:05,94)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 5
+5
+Appuyez sur une touche pour continuer...
+5 + 2 egale ? : 7
+OK
+2 + 2 egale ? :
+pas bon
+-----------------------------
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+-----------------------------
+test2 existe
+effacer ?
+y ou non :
+-----------------------------
+test2 n'est pas effacee
+-----------------------------
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 7867-C761
+D:\
++---TP_DOS
+    ¦   etude.txt
+    ¦   file.txt
+    ¦   help.txt
+    ¦   path-sauv.txt
+    ¦   test.bat
+    ¦   test2.bat
+    ¦   tile.txt
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---test2
+    +---windows
+        +---system
+-----------------------------
+(11:19:24,34)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 6
+) était inattendu.
+(11:23:34,73)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 6
+5 + 2 egale ? :
+OK
+2 + 2 egale ? :
+pas bon
+-----------------------------
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+
+Appuyez sur une touche pour continuer...
+-----------------------------
+test2 existe
+effacer ?
+y ou non : h
+-----------------------------
+test2 n'est pas effacee
+-----------------------------
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 000001BE 7867:C761
+D:\
++---TP_DOS
+    ¦   etude.txt
+    ¦   file.txt
+    ¦   help.txt
+    ¦   path-sauv.txt
+    ¦   test.bat
+    ¦   test2.bat
+    ¦   tile.txt
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---test2
+    +---windows
+        +---system
+-----------------------------
+(11:25:38,02)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 6
+5 + 2 egale ? :
+pas bon
+5 + 2 egale ? :
+pas bon
+5 + 2 egale ? : 5
+pas bon
+5 + 2 egale ? : 7
+OK
+finallement
+2 + 2 egale ? :
+pas bon
+-----------------------------
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+
+Appuyez sur une touche pour continuer...
+-----------------------------
+test2 existe
+effacer ?
+y ou non :
+-----------------------------
+test2 n'est pas effacee
+-----------------------------
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 000002A0 7867:C761
+D:\
++---TP_DOS
+    ¦   etude.txt
+    ¦   file.txt
+    ¦   help.txt
+    ¦   path-sauv.txt
+    ¦   test.bat
+    ¦   test2.bat
+    ¦   tile.txt
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---test2
+    +---windows
+        +---system
+-----------------------------
+(11:25:58,99)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 6
+) était inattendu.
+(11:27:32,32)D:\TP_DOS > path
+PATH=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Rational\common;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;;d:\tp_dos
+
+(11:31:43,44)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 5
+!choixprimo! était inattendu.
+(11:34:05,58)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 5
+5
+5
+Appuyez sur une touche pour continuer...
+!choixprimo! était inattendu.
+
+(11:35:25,62)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 5
+5
+5
+Appuyez sur une touche pour continuer...
+La syntaxe de la commande n’est pas correcte.
+
+(11:36:02,50)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 5
+La syntaxe de la commande n’est pas correcte.
+(11:36:36,04)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 5
+La syntaxe de la commande n’est pas correcte.
+(11:37:15,88)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 5
+-----------------------------
+fin
+-----------------------------
+(11:37:47,79)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 1
+1
+-----------------------------
+fin
+-----------------------------
+(11:37:57,57)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 1
+La syntaxe de la commande n’est pas correcte.
+(11:38:48,80)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 5
+La syntaxe de la commande n’est pas correcte.
+(11:38:58,54)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? test
+La syntaxe de la commande n’est pas correcte.
+(11:39:40,74)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+( était inattendu.
+(11:40:00,66)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 1
+La syntaxe de la commande n’est pas correcte.
+(11:40:50,93)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 5
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 4
+4
+Appuyez sur une touche pour continuer...
+-----------------------------
+fin
+-----------------------------
+(11:43:20,74)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 1
+1
+Appuyez sur une touche pour continuer...
+-----------------------------
+fin
+-----------------------------
+(11:43:32,18)D:\TP_DOS > test
+-----------------------------
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 11
+'rimo' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(11:49:09,61)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(11:49:16,89)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 1
+5 + 2 egale ? : 5
+pas bon
+5 + 2 egale ? :
+pas bon
+5 + 2 egale ? : 54
+pas bon
+5 + 2 egale ? : 7
+OK
+finallement
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(11:52:22,62)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 1
+5 + 2 egale ? : 25
+pas bon
+5 + 2 egale ? : 7
+OK
+finallement
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 1
+5 + 2 egale ? : 25
+pas bon
+5 + 2 egale ? : 5
+pas bon
+5 + 2 egale ? : 7
+OK
+"finallement "
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 1
+5 + 2 egale ? : 5
+pas bon
+5 + 2 egale ? : 7
+OK
+"finallement !"
+Appuyez sur une touche pour continuer...
+'to' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+2 + 2 egale ? :
+pas bon
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(11:56:35,99)D:\TP_DOS > 0
+'0' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+(11:56:38,63)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 1
+5 + 2 egale ? : 5
+pas bon
+5 + 2 egale ? : 7
+OK
+finallement
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(11:57:05,85)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 1
+5 + 2 egale ? : 5
+pas bon
+5 + 2 egale ? : 7
+OK
+"finallement !"
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 2
+2 + 2 egale ? : 4
+-----------------------------
+Appuyez sur une touche pour continuer...
+'----------------' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(11:58:47,80)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(11:58:57,43)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 1
+5 + 2 egale ? : 2
+pas bon
+5 + 2 egale ? : 7
+OK
+"finallement !"
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 2
+2 + 2 egale ? : 2
+pas bon
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 2
+2 + 2 egale ? : 4
+ok
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 3
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 3
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 4
+
+Appuyez sur une touche pour continuer...
+-----------------------------
+test2 existe
+effacer ?
+y ou non : n
+-----------------------------
+test2 n'est pas effacee
+-----------------------------
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 7867-C761
+D:\
++---TP_DOS
+    ¦   etude.txt
+    ¦   file.txt
+    ¦   help.txt
+    ¦   path-sauv.txt
+    ¦   test.bat
+    ¦   test2.bat
+    ¦   tile.txt
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---test2
+    +---windows
+        +---system
+-----------------------------
+-----------------------------
+fin
+-----------------------------
+(12:01:40,45)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(12:02:33,71)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 1
+5 + 2 egale ? : 65
+pas bon
+5 + 2 egale ? : 7
+OK
+"finallement !"
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 2
+2 + 2 egale ? : 5
+pas bon
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 2
+2 + 2 egale ? : 4
+ok
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 3
+lorem ipsum
+lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+'st' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(12:05:21,33)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 3
+lorem ipsum
+"variable = lorem ipsum dolor sit amet"
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(12:06:05,97)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 3
+lorem ipsum
+variable = lorem ipsum dolor sit amet
+lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(12:07:23,62)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 3
+lorem ipsum
+variable = lorem ipsum dolor sit amet
+rempassement i par I : lorem Ipsum dolor sIt amet
+Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+'st' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(12:10:26,18)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 3
+lorem ipsum
+variable = lorem ipsum dolor sit amet
+rempassement i par I : lorem Ipsum dolor sIt amet
+rempl *i=IIpsum dolor sit amet
+Appuyez sur une touche pour continuer...
+'e' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(12:10:48,70)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 3
+lorem ipsum
+variable = lorem ipsum dolor sit amet
+rempassement i par I : lorem Ipsum dolor sIt amet
+rempl *i=I : Ipsum dolor sit amet
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(12:11:00,81)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(13:06:35,32)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 1
+5 + 2 egale ? :
+pas bon
+5 + 2 egale ? :
+pas bon
+5 + 2 egale ? : 5
+pas bon
+5 + 2 egale ? : 7
+OK
+"finallement !"
+Appuyez sur une touche pour continuer...
+'---------------------------' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(13:08:00,66)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 1
+5 + 2 egale ? : 55
+pas bon
+5 + 2 egale ? : 7
+OK
+"finallement !"
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 2
+2 + 2 egale ? : 5
+pas bon
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 3
+lorem ipsum
+variable = lorem ipsum dolor sit amet
+rempassement i par I : lorem Ipsum dolor sIt amet
+rempl *i=I : Ipsum dolor sit amet
+-----------------------------
+Appuyez sur une touche pour continuer...
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 3
+lorem ipsum
+variable = lorem ipsum dolor sit amet
+remplassement i par I : lorem Ipsum dolor sIt amet
+remplassement *i=I : Ipsum dolor sit amet
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 4
+
+-----------------------------
+test2 existe
+effacer ?
+y ou non :
+-----------------------------
+test2 n'est pas effacee
+-----------------------------
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 7867-C761
+D:\
++---TP_DOS
+    ¦   etude.txt
+    ¦   file.txt
+    ¦   help.txt
+    ¦   path-sauv.txt
+    ¦   test.bat
+    ¦   test2.bat
+    ¦   tile.txt
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---test2
+    +---windows
+        +---system
+-----------------------------
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 4
+
+-----------------------------
+test2 existe
+effacer ?
+y ou non : y
+-----------------------------
+test2 est effacee
+-----------------------------
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 000001FE 7867:C761
+D:\
++---TP_DOS
+    ¦   etude.txt
+    ¦   file.txt
+    ¦   help.txt
+    ¦   path-sauv.txt
+    ¦   test.bat
+    ¦   test2.bat
+    ¦   tile.txt
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---windows
+        +---system
+-----------------------------
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 4
+
+-----------------------------
+test2 existe pas
+creer un ?
+y ou non : 3
+-----------------------------
+test2 n'est pas cree
+-----------------------------
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 7867-C761
+D:\
++---TP_DOS
+    ¦   etude.txt
+    ¦   file.txt
+    ¦   help.txt
+    ¦   path-sauv.txt
+    ¦   test.bat
+    ¦   test2.bat
+    ¦   tile.txt
+    ¦
+    +---dos
+    +---gestion
+    ¦   +---compta
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---lettres
+    ¦   +---modeles
+    ¦           fic1.txt
+    ¦           fic2.txt
+    ¦           fic3.txt
+    ¦
+    +---windows
+        +---system
+-----------------------------
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(13:10:33,02)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 5
+Zzzzzips
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(13:12:46,00)D:\TP_DOS > 7z
+'7z' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+(13:15:08,73)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 5
+PATH=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Rational\common;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;;d:\tp_dos
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 5
+PATH=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Rational\common;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;;d:\tp_dos
+Appuyez sur une touche pour continuer...
+Le chemin d’accès spécifié est introuvable.
+PATH=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Rational\common;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;;d:\tp_dos
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(13:17:37,82)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 5
+PATH=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Rational\common;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;;d:\tp_dos
+PATH=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Rational\common;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;;d:\tp_dos;C:\Program Files\7-Zip
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(13:18:04,14)D:\TP_DOS > 7z
+'7z' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+(13:18:27,25)D:\TP_DOS > C:\Program Files\7-Zip\7z
+'C:\Program' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+(13:18:50,40)D:\TP_DOS > C:\Program Files\7-Zip\7z.exe
+'C:\Program' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+(13:19:00,65)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 5
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+
+
+Command Line Error:
+Unsupported command:
+/?
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(13:20:17,41)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 5
+Cette commande n’est pas prise en charge par l’utilitaire d’aide. Essayez
+"7z /?".
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(13:20:46,78)D:\TP_DOS > help 7z
+Cette commande n’est pas prise en charge par l’utilitaire d’aide. Essayez
+"7z /?".
+
+(13:20:56,51)D:\TP_DOS > 7z /?
+'7z' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+(13:21:09,05)D:\TP_DOS > set path=%path%;C:\Program Files\7-Zip
+
+(13:21:40,03)D:\TP_DOS > 7z
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Usage: 7z <command> [<switches>...] <archive_name> [<file_names>...]
+
+<Commands>
+  a : Add files to archive
+  b : Benchmark
+  d : Delete files from archive
+  e : Extract files from archive (without using directory names)
+  h : Calculate hash values for files
+  i : Show information about supported formats
+  l : List contents of archive
+  rn : Rename files in archive
+  t : Test integrity of archive
+  u : Update files to archive
+  x : eXtract files with full paths
+
+<Switches>
+  -- : Stop switches parsing
+  @listfile : set path to listfile that contains file names
+  -ai[r[-|0]]{@listfile|!wildcard} : Include archives
+  -ax[r[-|0]]{@listfile|!wildcard} : eXclude archives
+  -ao{a|s|t|u} : set Overwrite mode
+  -an : disable archive_name field
+  -bb[0-3] : set output log level
+  -bd : disable progress indicator
+  -bs{o|e|p}{0|1|2} : set output stream for output/error/progress line
+  -bt : show execution time statistics
+  -i[r[-|0]]{@listfile|!wildcard} : Include filenames
+  -m{Parameters} : set compression Method
+    -mmt[N] : set number of CPU threads
+    -mx[N] : set compression level: -mx1 (fastest) ... -mx9 (ultra)
+  -o{Directory} : set Output directory
+  -p{Password} : set Password
+  -r[-|0] : Recurse subdirectories
+  -sa{a|e|s} : set Archive name mode
+  -scc{UTF-8|WIN|DOS} : set charset for for console input/output
+  -scs{UTF-8|UTF-16LE|UTF-16BE|WIN|DOS|{id}} : set charset for list files
+  -scrc[CRC32|CRC64|SHA1|SHA256|*] : set hash function for x, e, h commands
+  -sdel : delete files after compression
+  -seml[.] : send archive by email
+  -sfx[{name}] : Create SFX archive
+  -si[{name}] : read data from stdin
+  -slp : set Large Pages mode
+  -slt : show technical information for l (List) command
+  -snh : store hard links as links
+  -snl : store symbolic links as links
+  -sni : store NT security information
+  -sns[-] : store NTFS alternate streams
+  -so : write data to stdout
+  -spd : disable wildcard matching for file names
+  -spe : eliminate duplication of root folder for extract command
+  -spf : use fully qualified file paths
+  -ssc[-] : set sensitive case mode
+  -sse : stop archive creating, if it can't open some input file
+  -ssw : compress shared files
+  -stl : set archive timestamp from the most recently modified file
+  -stm{HexMask} : set CPU thread affinity mask (hexadecimal number)
+  -stx{Type} : exclude archive type
+  -t{Type} : Set type of archive
+  -u[-][p#][q#][r#][x#][y#][z#][!newArchiveName] : Update options
+  -v{Size}[b|k|m|g] : Create volumes
+  -w[{path}] : assign Work directory. Empty path means a temporary directory
+  -x[r[-|0]]{@listfile|!wildcard} : eXclude filenames
+  -y : assume Yes on all queries
+
+(13:21:45,13)D:\TP_DOS > 7z /?
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+
+
+Command Line Error:
+Unsupported command:
+/?
+
+(13:23:42,23)D:\TP_DOS > echo %programfiles%
+C:\Program Files
+
+(13:26:39,06)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 5
+'C:\Program' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(13:28:58,72)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 5
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 5
+C:\Program Files\7-zip\7z
+-----------------------------
+Appuyez sur une touche pour continuer...
+'o' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+-----------------------------
+fin
+-----------------------------
+(13:30:25,71)D:\TP_DOS > test
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 5
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Usage: 7z <command> [<switches>...] <archive_name> [<file_names>...]
+
+<Commands>
+  a : Add files to archive
+  b : Benchmark
+  d : Delete files from archive
+  e : Extract files from archive (without using directory names)
+  h : Calculate hash values for files
+  i : Show information about supported formats
+  l : List contents of archive
+  rn : Rename files in archive
+  t : Test integrity of archive
+  u : Update files to archive
+  x : eXtract files with full paths
+
+<Switches>
+  -- : Stop switches parsing
+  @listfile : set path to listfile that contains file names
+  -ai[r[-|0]]{@listfile|!wildcard} : Include archives
+  -ax[r[-|0]]{@listfile|!wildcard} : eXclude archives
+  -ao{a|s|t|u} : set Overwrite mode
+  -an : disable archive_name field
+  -bb[0-3] : set output log level
+  -bd : disable progress indicator
+  -bs{o|e|p}{0|1|2} : set output stream for output/error/progress line
+  -bt : show execution time statistics
+  -i[r[-|0]]{@listfile|!wildcard} : Include filenames
+  -m{Parameters} : set compression Method
+    -mmt[N] : set number of CPU threads
+    -mx[N] : set compression level: -mx1 (fastest) ... -mx9 (ultra)
+  -o{Directory} : set Output directory
+  -p{Password} : set Password
+  -r[-|0] : Recurse subdirectories
+  -sa{a|e|s} : set Archive name mode
+  -scc{UTF-8|WIN|DOS} : set charset for for console input/output
+  -scs{UTF-8|UTF-16LE|UTF-16BE|WIN|DOS|{id}} : set charset for list files
+  -scrc[CRC32|CRC64|SHA1|SHA256|*] : set hash function for x, e, h commands
+  -sdel : delete files after compression
+  -seml[.] : send archive by email
+  -sfx[{name}] : Create SFX archive
+  -si[{name}] : read data from stdin
+  -slp : set Large Pages mode
+  -slt : show technical information for l (List) command
+  -snh : store hard links as links
+  -snl : store symbolic links as links
+  -sni : store NT security information
+  -sns[-] : store NTFS alternate streams
+  -so : write data to stdout
+  -spd : disable wildcard matching for file names
+  -spe : eliminate duplication of root folder for extract command
+  -spf : use fully qualified file paths
+  -ssc[-] : set sensitive case mode
+  -sse : stop archive creating, if it can't open some input file
+  -ssw : compress shared files
+  -stl : set archive timestamp from the most recently modified file
+  -stm{HexMask} : set CPU thread affinity mask (hexadecimal number)
+  -stx{Type} : exclude archive type
+  -t{Type} : Set type of archive
+  -u[-][p#][q#][r#][x#][y#][z#][!newArchiveName] : Update options
+  -v{Size}[b|k|m|g] : Create volumes
+  -w[{path}] : assign Work directory. Empty path means a temporary directory
+  -x[r[-|0]]{@listfile|!wildcard} : eXclude filenames
+  -y : assume Yes on all queries
+-----------------------------
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ?
+choix pas correct
+Appuyez sur une touche pour continuer...
+-----------------------------
+sortie tapez 0
+calcul jusqu'a bon reponse tapez 1
+calcul juste pour voir si c'est bon tapez 2
+remplacement des lettres dans un string tapez 3
+creation/effacement repertoire test tapez 4
+Zzzzzips tapez 5
+-----------------------------
+votre choix ? 0
+-----------------------------
+fin
+-----------------------------
+(13:31:35,61)D:\TP_DOS > echo %temp%
+C:\Users\admin\AppData\Local\Temp
+
+(13:32:44,48)D:\TP_DOS > echo %tmp%
+C:\Users\admin\AppData\Local\Temp
+
+(13:32:52,10)D:\TP_DOS > tree /f
+Structure du dossier pour le volume Data
+Le numéro de série du volume est 7867-C761
+D:.
+¦   etude.txt
+¦   file.txt
+¦   help.txt
+¦   path-sauv.txt
+¦   test.bat
+¦   test2.bat
+¦   tile.txt
+¦
++---dos
++---gestion
+¦   +---compta
+¦           fic1.txt
+¦           fic2.txt
+¦           fic3.txt
+¦
++---lettres
+¦   +---modeles
+¦           fic1.txt
+¦           fic2.txt
+¦           fic3.txt
+¦
++---windows
+    +---system
+
+(13:33:12,34)D:\TP_DOS > 7z > 7z.txt
+
+(13:34:15,84)D:\TP_DOS > 7z a testarch.zip gestion\compta\
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive:
+1 folder, 3 files, 10 bytes (1 KiB)
+
+Creating archive: testarch.zip
+
+Add new data to archive: 1 folder, 3 files, 10 bytes (1 KiB)
+
+
+Files read from disk: 3
+Archive size: 648 bytes (1 KiB)
+Everything is Ok
+
+(13:48:21,79)D:\TP_DOS > 7z a testarch.zip .\gestion\compta\
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Open archive: testarch.zip
+--
+Path = testarch.zip
+Type = zip
+Physical Size = 648
+
+Scanning the drive:
+1 folder, 3 files, 10 bytes (1 KiB)
+
+Updating archive: testarch.zip
+
+Keep old data in archive: 1 folder, 3 files, 10 bytes (1 KiB)
+Add new data to archive: 1 folder, 3 files, 10 bytes (1 KiB)
+
+
+Files read from disk: 3
+Archive size: 1210 bytes (2 KiB)
+Everything is Ok
+
+(13:51:47,32)D:\TP_DOS > 7z a testarch.zip .\gestion.\compta\
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Open archive: testarch.zip
+--
+Path = testarch.zip
+Type = zip
+Physical Size = 1210
+
+Scanning the drive:
+
+WARNING: Le chemin d'accès spécifié est introuvable.
+.\gestion.\compta
+
+0 files, 0 bytes
+
+Updating archive: testarch.zip
+
+Keep old data in archive: 2 folders, 6 files, 20 bytes (1 KiB)
+Add new data to archive: 0 files, 0 bytes
+
+
+Files read from disk: 0
+Archive size: 1210 bytes (2 KiB)
+
+Scan WARNINGS for files and folders:
+
+.\gestion.\compta : Le chemin d'accès spécifié est introuvable.
+----------------
+Scan WARNINGS: 1
+
+(13:52:47,88)D:\TP_DOS > 7z a testarch.zip *.txt -r
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Open archive: testarch.zip
+--
+Path = testarch.zip
+Type = zip
+Physical Size = 1210
+
+Scanning the drive:
+12 files, 10365 bytes (11 KiB)
+
+Updating archive: testarch.zip
+
+Keep old data in archive: 2 folders, 3 files, 10 bytes (1 KiB)
+Add new data to archive: 12 files, 10365 bytes (11 KiB)
+
+
+Files read from disk: 12
+Archive size: 6286 bytes (7 KiB)
+Everything is Ok
+
+(13:55:35,92)D:\TP_DOS > 7z a testarch.zip *.txt -r
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Open archive: testarch.zip
+--
+Path = testarch.zip
+Type = zip
+Physical Size = 6286
+
+Scanning the drive:
+12 files, 10365 bytes (11 KiB)
+
+Updating archive: testarch.zip
+
+Keep old data in archive: 2 folders, 3 files, 10 bytes (1 KiB)
+Add new data to archive: 12 files, 10365 bytes (11 KiB)
+
+
+Files read from disk: 12
+Archive size: 6286 bytes (7 KiB)
+Everything is Ok
+
+(13:56:15,61)D:\TP_DOS > 7z d testarch.zip tile.txt
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Open archive: testarch.zip
+--
+Path = testarch.zip
+Type = zip
+Physical Size = 6286
+
+Updating archive: testarch.zip
+
+
+Delete data from archive: 1 file, 0 bytes
+Keep old data in archive: 2 folders, 14 files, 10375 bytes (11 KiB)
+Add new data to archive: 0 files, 0 bytes
+
+
+Files read from disk: 0
+Archive size: 6158 bytes (7 KiB)
+Everything is Ok
+
+(13:59:54,69)D:\TP_DOS > 7z e testarch.zip file.txt
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6158 bytes (7 KiB)
+
+Extracting archive: testarch.zip
+--
+Path = testarch.zip
+Type = zip
+Physical Size = 6158
+
+
+Would you like to replace the existing file:
+  Path:     .\file.txt
+  Size:     0 bytes
+  Modified: 2018-11-06 11:11:05
+with the file from archive:
+  Path:     file.txt
+  Size:     0 bytes
+  Modified: 2018-11-06 11:11:05
+? (Y)es / (N)o / (A)lways / (S)kip all / A(u)to rename all / (Q)uit? y
+
+Everything is Ok
+
+Size:       0
+Compressed: 6158
+
+(14:11:43,08)D:\TP_DOS > 7z l testarch.zip
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6158 bytes (7 KiB)
+
+Listing archive: testarch.zip
+
+--
+Path = testarch.zip
+Type = zip
+Physical Size = 6158
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2018-11-06 13:34:15 ....A         2801         1293  7z.txt
+2018-11-05 08:43:02 D....            0            0  compta
+2018-10-31 17:11:09 ....A           10           10  compta\fic1.txt
+2018-10-31 17:13:12 ....A            0            0  compta\fic2.txt
+2018-10-31 17:15:15 ....A            0            0  compta\fic3.txt
+2018-11-05 08:54:28 ....A            0            0  etude.txt
+2018-11-06 11:11:05 ....A            0            0  file.txt
+2018-11-05 08:43:02 D....            0            0  gestion\compta
+2018-10-31 17:11:09 ....A           10           10  gestion\compta\fic1.txt
+2018-10-31 17:13:12 ....A            0            0  gestion\compta\fic2.txt
+2018-10-31 17:15:15 ....A            0            0  gestion\compta\fic3.txt
+2018-10-31 17:46:25 ....A         7308         2356  help.txt
+2018-10-31 17:11:09 ....A           10           10  lettres\modeles\fic1.txt
+2018-10-31 17:13:12 ....A            0            0  lettres\modeles\fic2.txt
+2018-10-31 17:15:15 ....A            0            0  lettres\modeles\fic3.txt
+2018-11-06 11:06:49 ....A          236          161  path-sauv.txt
+------------------- ----- ------------ ------------  ------------------------
+2018-11-06 13:34:15              10375         3840  14 files, 2 folders
+
+(14:12:44,51)D:\TP_DOS > 7z l testarch.zip *.txt
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6158 bytes (7 KiB)
+
+Listing archive: testarch.zip
+
+--
+Path = testarch.zip
+Type = zip
+Physical Size = 6158
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2018-11-06 13:34:15 ....A         2801         1293  7z.txt
+2018-11-05 08:54:28 ....A            0            0  etude.txt
+2018-11-06 11:11:05 ....A            0            0  file.txt
+2018-10-31 17:46:25 ....A         7308         2356  help.txt
+2018-11-06 11:06:49 ....A          236          161  path-sauv.txt
+------------------- ----- ------------ ------------  ------------------------
+2018-11-06 13:34:15              10345         3810  5 files
+
+(14:13:12,94)D:\TP_DOS > 7z t testarch.zip *.txt
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6158 bytes (7 KiB)
+
+Testing archive: testarch.zip
+--
+Path = testarch.zip
+Type = zip
+Physical Size = 6158
+
+Everything is Ok
+
+Files: 5
+Size:       10345
+Compressed: 6158
+
+(14:14:25,70)D:\TP_DOS > powershell.exe
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+PS D:\TP_DOS> help
+
+RUBRIQUE
+    Système d'aide de Windows PowerShell
+
+DESCRIPTION COURTE
+    Affiche l'aide sur les applets de commande et les concepts de Windows PowerShell.
+
+DESCRIPTION LONGUE
+    L'aide de Windows PowerShell décrit les applets de commande,
+    les fonctions, les scripts et les modules Windows PowerShell. Elle explique
+    les concepts tels que les éléments du langage Windows PowerShell.
+
+    Windows PowerShell ne contient pas de fichiers d'aide, mais vous pouvez consulter
+    les rubriques d'aide en ligne ou utiliser l'applet de commande Update-Help pour télécharger les fichiers d'aide
+    sur votre ordinateur. Utilisez ensuite l'applet de commande Get-Help pour afficher les rubriques
+    d'aide sur la ligne de commande.
+
+    Vous pouvez également utiliser l'applet de commande Update-Help pour télécharger les fichiers d'aide mis à jour
+    dès qu'ils sont disponibles, de sorte que le contenu de votre aide locale n'est jamais obsolète.
+
+    Sans les fichiers d'aide, Get-Help affiche l'aide générée automatiquement pour les applets de commande,
+    les fonctions et les scripts.
+
+
+  AIDE EN LIGNE
+    Vous pouvez trouver de l'aide en ligne sur Windows PowerShell dans la bibliothèque TechNet
+    à l'adresse suivante : http://go.microsoft.com/fwlink/?LinkID=108518.
+
+    Pour ouvrir l'aide en ligne d'une applet de commande ou d'une fonction, tapez :
+
+        Get-Help <nom-applet_commande> -Online
+
+  UPDATE-HELP
+    Pour télécharger et installer des fichiers d'aide sur votre ordinateur :
+
+       1. Démarrez Windows PowerShell à l'aide de l'option Exécuter en tant qu'administrateur.
+       2. Tapez :
+
+          Update-Help
+
+    Une fois les fichiers d'aide installés, vous pouvez utiliser l'applet de commande Get-Help pour
+    afficher les rubriques d'aide. Vous pouvez également utiliser l'applet de commande Update-Help pour
+    télécharger les fichiers d'aide mis à jour afin que vos fichiers d'aide locaux restent
+    à jour.
+
+    Pour plus d'informations sur l'applet de commande Update-Help, tapez :
+
+       Get-Help Update-Help -Online
+
+    ou accédez à l'adresse suivante : http://go.microsoft.com/fwlink/?LinkID=210614
+
+
+  GET-HELP
+    L'applet de commande Get-Help affiche l'aide sur la ligne de commande à partir du contenu
+    des fichiers d'aide de votre ordinateur. Sans les fichiers d'aide, Get-Help affiche une aide de base
+    relative aux applets de commande et aux fonctions. Vous pouvez également utiliser Get-Help pour afficher
+    une aide en ligne relative aux applets de commande et aux fonctions.
+
+    Pour obtenir de l'aide sur une applet de commande, tapez :
+
+        Get-Help <nom-applet_commande>
+
+    Pour obtenir de l'aide en ligne, tapez :
+
+        Get-Help <nom-applet_commande> -Online
+
+    Les titres des rubriques conceptuelles commencent par « About_ ».
+    Pour obtenir de l'aide sur un concept ou un élément de langage, tapez :
+
+        Get-Help About_ <nom-rubrique>
+
+    Pour rechercher un mot ou une expression dans l'ensemble des fichiers d'aide, tapez :
+
+        Get-Help <terme-recherché>
+
+    Pour plus d'informations sur l'applet de commande Get-Help, tapez :
+
+        Get-Help Get-Help -Online
+
+    ou accédez à l'adresse suivante : http://go.microsoft.com/fwlink/?LinkID=113316
+
+
+  EXEMPLES :
+      Save-Help              : télécharge les fichiers d'aide à partir d'Internet et les enregistre
+                               sur un partage de fichiers.
+      Update-Help            : télécharge et installe les fichiers d'aide à partir
+                               d'Internet ou d'un partage de fichiers.
+      Get-Help Get-Process   : affiche l'aide relative à l'applet de commande Get-Process.
+      Get-Help Get-Process -Online
+                             : ouvre l'aide en ligne relative à l'applet de commande Get-Process.
+      Help Get-Process       : affiche l'aide relative à Get-Process page par page.
+      Get-Process -?         : affiche l'aide relative à l'applet de commande Get-Process.
+      Get-Help About_Modules : affiche l'aide relative aux modules Windows PowerShell.
+      Get-Help remoting      : recherche le mot « remoting » dans les rubriques d'aide.
+
+  VOIR AUSSI :
+      about_Updatable_Help
+      Get-Help
+      Save-Help
+      Update-Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PS D:\TP_DOS> exit
+
+(14:26:19,45)D:\TP_DOS >

@@ -1,0 +1,53 @@
+﻿Structure du dossier pour le volume Data
+Le numéro de série du volume est 7867-C761
+D:.
+│   7z-commands.txt
+│   7zcmnds.zip
+│   arbre_EOM.txt
+│   etude.txt
+│   file.txt
+│   help.txt
+│   igor-xsav-temp4.bat
+│   path-sauv.txt
+│   temp2.bat
+│   temp3.bat
+│   temp5.bat
+│   testarch.zip
+│   tile.txt
+│   
+├───archive-de-travail
+│       cmd.txt
+│       
+├───bin
+│       agentsecret.bat
+│       bigbat.bat
+│       dt.bat
+│       parametres.bat
+│       parametres2.bat
+│       ______main_file_bigbat______.txt
+│       
+├───dos
+├───gestion
+│   └───compta
+│           fic1.txt
+│           fic2.txt
+│           fic3.txt
+│           
+├───helps
+│       cmd_set.txt
+│       
+├───lettres
+│   └───modeles
+│       │   fic1.txt
+│       │   fic2.txt
+│       │   fic3.txt
+│       │   
+│       └───test
+├───leçon
+│       astéroïde
+│       
+├───windows
+│   └───system
+└───éphémère
+        astéroïde
+        
